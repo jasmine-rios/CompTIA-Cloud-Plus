@@ -264,4 +264,20 @@ Size of CPU for instance size will be important as well.
 
 ## High Avaliability and Scaling
 
+Scalability and High Avaliability for the cloud:
+- Single points of failure
+- Over subscription
+- Scalability in the cloud
+- High Availability in the cloud (HA)
+
+Scalability for the Cloud:
+- Auto-scaling
+    Adding resources to maintain availiability on demand
+- Horizontal Scaling
+    Splitting workloads to other machines to make for parallel processing
+- Vertical Scaling
+    Changing resources to handle appropriate performance demands
+- Cloud Bursting
+    Traffic overflow directed to cloud when current resources at 100% utilization
+
 
